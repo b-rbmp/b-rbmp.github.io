@@ -1,5 +1,4 @@
-# b-rbmp.github.io
-<h1> Portfolio Website </h1>
+# Portfolio Website
 
 <p>
   Personal portfolio website to showcase my projects.
